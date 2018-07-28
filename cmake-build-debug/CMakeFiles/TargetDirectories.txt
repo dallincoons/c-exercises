@@ -1,3 +1,0 @@
-/Users/coons/CLionProjects/LearningC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/coons/CLionProjects/LearningC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/coons/CLionProjects/LearningC/cmake-build-debug/CMakeFiles/LearningC.dir

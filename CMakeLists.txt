@@ -3,4 +3,4 @@ project(LearningC)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LearningC ex22.h ex22.c dbg.h ex22_main.c)
+add_executable(LearningC dbg.h ex23.c)
