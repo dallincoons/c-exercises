@@ -3,4 +3,4 @@ project(LearningC)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LearningC dbg.h logfind.c)
+add_executable(LearningC dbg.h c-skeleton/src/dbg.h)

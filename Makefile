@@ -1,1 +1,3 @@
-CFLAGS=-Wall -g
+CC=gcc
+CFLAGS=-I.
+
